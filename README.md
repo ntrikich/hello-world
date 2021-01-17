@@ -1,2 +1,3 @@
 # hello-world
-walkthough
+
+This is a walkthrough of github basics.
